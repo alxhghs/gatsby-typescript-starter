@@ -1,0 +1,1 @@
+{"data":{"markdownRemark":{"html":"<h1>Title</h1>\n<h2>subtitle</h2>\n<pre><code class=\"language-javascript\">const x = 3;\n</code></pre>\n<p>yay!</p>","frontmatter":{"date":"March 18, 2019","path":"blog/css-grid","title":"Using CSS Grid"}}},"pageContext":{}}
